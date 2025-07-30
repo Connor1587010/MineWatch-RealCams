@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Connor's Camera Network</title>
+  <style>
+    body { font-family: sans-serif; background: #111; color: #eee; text-align: center; padding: 2em; }
+    a.button {
+      display: inline-block;
+      padding: 10px 20px;
+      background: #33aaff;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      margin: 1em;
+    }
+  </style>
+</head>
+<body>
+  <h1>📷 Welcome to Connor's Camera Network!</h1>
+  <p>Add a camera to your Minecraft world and join the network!</p>
+  <a class="button" href="JavaCameraPack.zip">Download for Java</a>
+  <a class="button" href="BedrockCameraPack.mcpack">Download for Bedrock</a>
+</body>
+</html>
